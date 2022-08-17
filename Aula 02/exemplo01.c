@@ -6,7 +6,7 @@ int main() {
 }
 
 void imprimir_mensagem(char* msg){
-    printf(msg);
+    printf("%s", msg);
     printf("\n");
 }
 
