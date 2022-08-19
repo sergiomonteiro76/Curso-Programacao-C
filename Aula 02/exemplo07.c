@@ -1,6 +1,6 @@
 #include <stdio.h>
 int quantidade_numeros();
-int somar_numeros();
+int somar_numeros(int qtd);
 
 int main(){
 	int qtd;	
