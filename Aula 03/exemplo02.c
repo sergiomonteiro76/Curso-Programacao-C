@@ -27,7 +27,7 @@ int entrada_dados(){
 }
 
 void imprimir_resultados(int n, long r){
-	printf("\nO Fibonacci de [%i] eh [%i]\n",n, r);
+	printf("\nO Fibonacci de [%i] eh [%li]\n",n, r);
 }
 
 
