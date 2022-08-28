@@ -25,7 +25,7 @@ int entrada_dados(){
 }
 
 void imprimir_resultados(int n, long r){
-	printf("\nO fatorial de [%i] eh [%i]\n",n, r);
+	printf("\nO fatorial de [%i] eh [%li]\n",n, r);
 }
 
 
